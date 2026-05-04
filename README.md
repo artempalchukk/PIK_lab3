@@ -47,10 +47,3 @@ cmake --build build --config Release
 ./build/Release/SurveyForm.exe
 ```
 
-### Через Qt Creator
-
-Відкрити `CMakeLists.txt` у Qt Creator і натиснути **Run** (`Ctrl+R`).
-
-## Скріншот
-
-Застосунок має теплу теракотово-помаранчеву кольорову схему з градієнтною шапкою.
